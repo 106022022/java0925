@@ -3,7 +3,7 @@ public class km {
         //  顯示訊息
         java.util.Scanner sc = new java.util.Scanner(System.in);
 
-        System.out.println("請輸入英里  ");
+        System.out.println("請輸入英里   ");
         int mi = sc.nextInt();
 
         double km = mi * 1.6;
